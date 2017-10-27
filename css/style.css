@@ -1,5 +1,6 @@
 body {
   background: pink;
+  text-decoration: underline;
 
 h1 {
   color: blue;
@@ -18,5 +19,5 @@ h2 {
 
 #tasks .completed 
   backgound: #ccc;
-  text-decoration: underline;
+  
 }
